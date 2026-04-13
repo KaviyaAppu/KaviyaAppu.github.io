@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing an MS in Data Science at University of Houston-CLear Lake and serving as a Teaching Assistant for C programming, Data Structures, and Network Defense. With an engineering background and a growing focus on data science, machine learning, and research, I bring a practical, analytical approach to problem-solving and learning.
+I am currently pursuing an MS in Data Science at [University of Houston- Clear Lake](https://www.uhcl.edu/) and serving as a Teaching Assistant for C programming, Data Structures, and Network Defense. With an engineering background and a growing focus on data science, machine learning, and research, I bring a practical, analytical approach to problem-solving and learning.
 
 My interests lie in building intelligent, reliable, and impactful systems that connect technical depth with real-world use. I am especially motivated by opportunities in data science, AI, and applied research, and I am actively developing my skills through academic work, teaching, and hands-on projects.
 
@@ -26,9 +26,13 @@ I am committed to continuous growth, strong technical foundations, and creating 
 - Intelligent data-driven systems
 
 ## News
-
+January 2026: Serving as a Teaching Assistant for C programming, Data Structures, and Network Defense at the University of Houston-Clear Lake.
+2025–Present: Pursuing an MS in Data Science at the University of Houston-Clear Lake.
+April 2026: Developing my NLP research project, TelosTrace: Risk-Bounded Root Cause Analysis for Telecom Alarm Cascades.
+April 2026: Began implementation, benchmarking, and preliminary evaluation for my graduate research project.
+2026: Continuing to strengthen my work in data science, machine learning, and applied research through teaching and hands-on projects.
 
 ## Students
 
-I look forward to mentoring undergraduate and graduate students in data science, machine learning, and related areas. This section will be updated as student research projects, collaborations, and mentoring activities develop.
+I look forward to growing in data science, machine learning, and related areas through research, teaching, and continuous learning. This section will be updated as my projects, collaborations, and academic work continue to develop.
 
