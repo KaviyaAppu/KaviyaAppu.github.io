@@ -27,9 +27,13 @@ I am committed to continuous growth, strong technical foundations, and creating 
 
 ## News
 January 2026: Serving as a Teaching Assistant for C programming, Data Structures, and Network Defense at the University of Houston-Clear Lake.
+
 2025–Present: Pursuing an MS in Data Science at the University of Houston-Clear Lake.
+
 April 2026: Developing my NLP research project, TelosTrace: Risk-Bounded Root Cause Analysis for Telecom Alarm Cascades.
+
 April 2026: Began implementation, benchmarking, and preliminary evaluation for my graduate research project.
+
 2026: Continuing to strengthen my work in data science, machine learning, and applied research through teaching and hands-on projects.
 
 ## Students
