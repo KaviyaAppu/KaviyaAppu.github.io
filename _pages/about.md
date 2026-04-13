@@ -36,7 +36,6 @@ April 2026: Began implementation, benchmarking, and preliminary evaluation for m
 
 2026: Continuing to strengthen my work in data science, machine learning, and applied research through teaching and hands-on projects.
 
-## Students
+## Teaching and Mentorship
 
-I look forward to growing in data science, machine learning, and related areas through research, teaching, and continuous learning. This section will be updated as my projects, collaborations, and academic work continue to develop.
-
+I am passionate about supporting students in their learning and academic growth, especially in programming, data science, machine learning, and related areas. This section will be updated as my teaching, mentoring, and student support activities continue to develop.
