@@ -9,40 +9,51 @@ This page highlights selected coursework, research, technical, or portfolio proj
 
 Students should include only projects they are comfortable showing publicly.
 
-## Project 1: Project Title
+## Project 1: TelosTrace: Risk-bounded RCA with NLP-enhanced multi-hypothesis reasoning
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Spring 2026  
-**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn  
+**Type:** Research Project  
+**Date:** Spring 2026 – Present  
+**Tools:** Python, NLP, Machine Learning, Scikit-learn, Jupyter Notebook  
+**Status:** Ongoing  
+**Link:** [Project Page / Repository](https://github.com/yourusername/your-repo)
+
+This is my ongoing graduate research project focused on risk-bounded root cause analysis with NLP-enhanced multi-hypothesis reasoning. The project explores how confidence-aware reasoning and decision support can improve troubleshooting reliability in complex telecom and system monitoring settings. I am currently working on implementation, benchmarking, and preliminary evaluation. Results are still in progress.
+
+## Project 2: Predictive Fault Detection in MPLS Networks
+
+**Type:** Personal Project  
+**Date:** January 2026  
+**Tools:** Python, Jupyter Notebook, Pandas, Scikit-learn, XGBoost  
 **Link:** [GitHub Repository](https://github.com/yourusername/your-repo)
 
-Write 2 to 4 sentences describing the project:
-- What problem did the project address?
-- What data, methods, or tools were used?
-- What was your role?
-- What was the final outcome?
+This project focused on predicting upcoming MPLS circuit failures using telecom-realistic synthetic KPI and fault data. I prepared the data, engineered domain-aware features, and trained machine learning models to identify fault patterns before failures occurred. The project demonstrates how predictive modeling can support proactive network assurance in telecom systems.
 
-Example:
+## Project 3: Twitter Circadian Rhythm Analysis
 
-This project explored student performance prediction using machine learning models. I cleaned the data, performed exploratory analysis, and trained several classification models in Python. The final model was used to compare prediction accuracy across multiple methods and summarize which features were most important.
+**Type:** Personal Project  
+**Date:** January 2026  
+**Tools:** Python, Pandas, Matplotlib, Jupyter Notebook  
+**Link:** [GitHub Repository](https://github.com/yourusername/your-project)
 
-## Project 2: Project Title
+This project analyzed Twitter posting behavior across different hours of the day to identify circadian activity patterns. I cleaned and organized the data, performed exploratory analysis, and visualized temporal trends in user engagement. The project showed how time-based data analysis can reveal meaningful behavioral insights.
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Fall 2025  
-**Tools:** Python, SQL, Tableau  
-**Link:** [Project Page](https://github.com/yourusername/your-project)
+## Project 4: Economic Indicators Analysis (2015–2023)
 
-Write 2 to 4 sentences describing the project.
+**Type:** Personal Project  
+**Date:** January 2026  
+**Tools:** Python, Pandas, Matplotlib, Jupyter Notebook  
+**Link:** [GitHub Repository](https://github.com/yourusername/your-project)
 
-## Project 3: Project Title
+This project examined global economic indicators such as GDP, Happiness Index, and inflation to explore trends and relationships over time. I conducted data cleaning, visualization, and correlation analysis to better understand how these indicators interact. The final results provided a structured view of long-term economic and social patterns.
 
-**Type:** Course Project / Research Project / Personal Project / Team Project  
-**Date:** Summer 2025  
-**Tools:** R, ggplot2, Shiny  
-**Link:** [Demo or Repository](https://github.com/yourusername/your-project)
+## Project 5: Gold Rate Prediction
 
-Write 2 to 4 sentences describing the project.
+**Type:** Personal Project  
+**Date:** January 2026  
+**Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook  
+**Link:** [GitHub Repository](https://github.com/yourusername/your-project)
+
+This project built a predictive model to forecast gold prices using historical data and machine learning methods. I handled data preprocessing, exploratory analysis, model development, and performance evaluation. The project demonstrated the use of machine learning for financial trend prediction.
 
 ---
 
